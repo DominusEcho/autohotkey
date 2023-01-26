@@ -37,7 +37,7 @@ return
 return
 
 CapsLock & W::
-  Send {WheelUp 7}
+  Send {WheelUp 8}
 return
 
 CapsLock & S::

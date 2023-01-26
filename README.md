@@ -16,3 +16,5 @@ Exists 3 files
 |CapsLock & E|End Action|Goes to the end of the present line|
 |CapsLock & Z|Media_Play_Pause|Starts or Stops the media present| Sometimes doesn't work on browsers, can activate sounds such as Teams call |
 |Ctrl & Shift & C|Search Web|Searches using duckduckgo the last item in the clipboard|
+|CapsLock & W|Scrols Up|Scrolls the focused windows up by 7 ticks|
+|CapsLock & S|Scrols Down|Scrolls the focused windows down by 7 ticks|
